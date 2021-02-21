@@ -1,10 +1,10 @@
 # OVERVIEW
 
-<img src="https://github.com/afryannn/YUKATA-MEUBLE/blob/master/public/images/github1.png"/>
-<img src="https://github.com/afryannn/YUKATA-MEUBLE/blob/master/public/images/github2.png"/>
-<img src="https://github.com/afryannn/YUKATA-MEUBLE/blob/master/public/images/github3.png"/>
-<img src="https://github.com/afryannn/YUKATA-MEUBLE/blob/master/public/images/github4.png"/>
-<img src="https://github.com/afryannn/YUKATA-MEUBLE/blob/master/public/images/github5.png"/>
+<img src="https://github.com/afryannn/YUKATA-MEUBLE/blob/master/public/git/prev1.png"/>
+<img src="https://github.com/afryannn/YUKATA-MEUBLE/blob/master/public/git/prev2.png"/>
+<img src="https://github.com/afryannn/YUKATA-MEUBLE/blob/master/public/git/prev3.png"/>
+<img src="https://github.com/afryannn/YUKATA-MEUBLE/blob/master/public/git/prev4.png"/>
+<img src="https://github.com/afryannn/YUKATA-MEUBLE/blob/master/public/git/prev5.png"/>
 
 
 ## Project setup
