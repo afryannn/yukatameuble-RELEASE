@@ -1,6 +1,6 @@
 # OVERVIEW
 <p>Home</p>
-<img src="https://github.com/afryannn/yukatameuble-RELEASE-/blob/master/public/git/prev1.png" width="30%"/>
+<img src="https://github.com/afryannn/yukatameuble-RELEASE-/blob/master/public/git/prev1.png" width="60%"/>
 <br>
 <img src="https://github.com/afryannn/yukatameuble-RELEASE-/blob/master/public/git/prev2.png"/>
 <img src="https://github.com/afryannn/yukatameuble-RELEASE-/blob/master/public/git/prev3.png"/>
