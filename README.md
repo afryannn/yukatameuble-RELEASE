@@ -4,7 +4,7 @@
 <br>
 <img src="https://github.com/afryannn/yukatameuble-RELEASE-/blob/master/public/git/prev1.png" width="60%"/>
 <br>
-<img src="https://github.com/afryannn/yukataapi/blob/master/public/yrev1.png" width="60%"/>
+<img src="https://github.com/afryannn/yukataapi/blob/master/public/yrev2.png" width="60%"/>
 <img src="https://github.com/afryannn/yukataapi/blob/master/public/yrev1.png" width="60%"/>
 <img src="https://github.com/afryannn/yukatameuble-RELEASE-/blob/master/public/git/prev4.png" width="60%"/>
 <img src="https://github.com/afryannn/yukatameuble-RELEASE-/blob/master/public/git/prev5.png" width="60%"/>
